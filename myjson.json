@@ -1,0 +1,47 @@
+[
+    {
+        "description": "Fare la Spesa",
+"isCompleted": false,
+"dueDate": "2024-01-31"
+    },
+    {
+"description": "Giocare con i bimbi",
+"isCompleted": true,
+"dueDate": "2024-02-15"
+    },
+    {
+"description": "Pianificare vacanza",
+"isCompleted": false,
+"dueDate": "2024-03-01"
+    },
+    {
+"description": "Studiare per l'esame",
+"isCompleted": false,
+"dueDate": "2024-02-28"
+    },
+    {
+"description": "Lavorare",
+"isCompleted": true,
+"dueDate": "2024-02-05"
+    },
+    {
+"description": "Mangiare",
+"isCompleted": false,
+"dueDate": "2024-03-10"
+    },
+    {
+"description": "Leggere un libro",
+"isCompleted": false,
+"dueDate": "2024-02-20"
+    },
+    {
+"description": "Fare jogging",
+"isCompleted": true,
+"dueDate": "2024-01-25"
+    },
+    {
+"description": "Imparare una nuova tecnologia",
+"isCompleted": false,
+"dueDate": "2024-03-15"
+    }
+]
